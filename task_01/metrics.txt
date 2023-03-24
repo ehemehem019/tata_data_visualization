@@ -1,0 +1,12 @@
+Questions of interest to CEO:
+1. Revenue per regions and their rankings. 
+2. Trend of revenue per month. Months that have the biggest and lowest revenue. 
+3. Seasonality in sales. 
+4. Customer diversification. Few customers with high sale input vs. diverse customers. 
+
+Questions of interest to CMO: 
+1. Order repetition. Are different products ordered? 
+2. Interval of order placement. 
+3. Revenue from repeat customers. 
+4. Repeat customers statistics. 
+
